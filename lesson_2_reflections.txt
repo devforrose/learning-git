@@ -1,0 +1,20 @@
+What happens when you initialize a repository? Why do you need to do it?
+You create a .git file that is hidden. You need to do it, as opposed to git, because you want to set the commit message and choose which files to include.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+You can temporarily put files there, and then neatly send them away in one package to the repo. It's inbetween the two.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You add just one file to the staging area at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to test sth new, or add a feature that might change the original app.
+
+How do the diagrams help you visualize the branch structure?
+It helps you see what commit is reachable from what branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We keep the commit history of both.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Manually gives you more control.

@@ -6,3 +6,6 @@ You clone when you want to get a local copy. You fork smo elses repo (so you kee
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can compare them, and see how to merge them.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be easier to do small changes in small projects, but very difficult with big projects.
